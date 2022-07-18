@@ -4,6 +4,6 @@ Lanjutan Pert 13
   <tr>
     <td><b>Lanjutan Praktikum 13</b></td>
     <td>Framework Lanjutan (Modul Login)</td>
-    <td><a href="https://github.com/josefisto35/Lab11Web.git">Pratinjau</td>
+    <td><a href="https://github.com/josefisto35/Praktikum11.git">Pratinjau</td>
   </tr>
   </table>
